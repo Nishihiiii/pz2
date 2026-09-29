@@ -73,7 +73,7 @@ namespace pz2_Khvan.Pages
 			}
 			return result;
 
-			// для коммита ыыы
+			// для коммита ыыыыыы
 		}
 	}
 }
